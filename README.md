@@ -1,24 +1,61 @@
-### Recommendation-System-
+# Recommendation System
 This project aims at building an item to item recommedation system using H&M Fashion Dataset pulled from Kaggle, implementing the concepts of TF-IDF (Term Frequency and Invere Document Frequecy), and cosine similarity.
 
 ## Exploratory Data Analysis:
+
+
 EDA is done to familiarize with the shape, contect and context of the data at hand.
+
+
+
 <img width="397" alt="image" src="https://github.com/sohanrk7/Recommendation-System-/assets/133166918/9f620aea-0341-436c-b224-7ecdeda4fa39">
+
+
 In the count of items section-wise, Ladieswear stands on top with the highest number
  
+
+
+
 <img width="397" alt="image" src="https://github.com/sohanrk7/Recommendation-System-/assets/133166918/bd506a70-5244-4079-a75d-c94d6f36cc57">
+
+
+
 Jersey fancy stands high in the item-wise count with above 2000 articles.
 
+
+
+
 <img width="412" alt="image" src="https://github.com/sohanrk7/Recommendation-System-/assets/133166918/53b6febd-2d2b-452e-b4d7-b913d7edf33b">
+
+
+
 The top 20 departments with the highest number of articles are represented using bar graphs.
 
+
+
+
 <img width="412" alt="image" src="https://github.com/sohanrk7/Recommendation-System-/assets/133166918/598c5782-3735-4a9a-bbae-55d59ddc1156">
+
+
+
 The pie chart represents that ladieswear is the group with the highest percentage of garments with around 37 percent whereas sportswear with the least with 3 percent
   
+
+
+
 <img width="430" alt="image" src="https://github.com/sohanrk7/Recommendation-System-/assets/133166918/b48269d1-82d9-4e31-851f-6ddfcb25426b">
+
+
+
 It is seen from the histogram that the young people with age from 20 to 30 are deemed to be the most common customers with age group 21 with the highest 6800 members.
 
+
+
+
 <img width="471" alt="image" src="https://github.com/sohanrk7/Recommendation-System-/assets/133166918/34179b88-3f0e-4d54-803e-f1f926887ee0">
+
+
+
 The bar graph represents the greatest number of transactions have come from Ladieswear and the least from children's accessories and swimwear.
 
 
